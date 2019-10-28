@@ -1,0 +1,1882 @@
+a wealthy African-Americaschoolgirl on her way to prison for a murder she didn't commit 
+,{'neg': 0.485, 'neu': 0.392, 'pos': 0.123, 'compound': -0.812}
+a pregnant nymphomaniac bodyguard from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a foxy nymphomaniac socialite from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative French-Canadiabarmaid with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+aorphaned African-Americaqueen of the dead married to the Mob 
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a sharp-shooting gold-digging angel descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a time-travelling winged soap star married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic mutant politiciawith a knack for trouble 
+,{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}
+a chain-smoking African-AmericaHell's Angel from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed thirtysomething journalist with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful punk queen of the dead from a family of eight older brothers 
+,{'neg': 0.236, 'neu': 0.549, 'pos': 0.214, 'compound': -0.1027}
+a cynical communist detective with someone else's memories 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a tortured mutant cab driver looking for love in all the wrong places 
+,{'neg': 0.337, 'neu': 0.452, 'pos': 0.211, 'compound': -0.3612}
+aelegant communist journalist with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed hypochondriac mermaid with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned bisexual safe cracker from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}
+a man-hating Buddhist bodyguard from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed insomniac angel fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal hypochondriac hooker operating on the wrong side of the law 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+aartistic mute advertising executive from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking Buddhist barmaid from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious red-headed stripper from the wrong side of the tracks 
+,{'neg': 0.223, 'neu': 0.576, 'pos': 0.201, 'compound': -0.0772}
+a plucky Bolivialawyer with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned wisecracking magician's assistant with aMBA from Harvard 
+,{'neg': 0.186, 'neu': 0.814, 'pos': 0.0, 'compound': -0.1531}
+a blind tomboy archaeologist operating on the wrong side of the law 
+,{'neg': 0.392, 'neu': 0.608, 'pos': 0.0, 'compound': -0.7003}
+a vivacious kleptomaniac pearl diver with someone else's memories 
+,{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4215}
+a mentally unstable African-Americamermaid with the power to see death 
+,{'neg': 0.478, 'neu': 0.522, 'pos': 0.0, 'compound': -0.7506}
+a blind mute advertising executive who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}
+a brilliant impetuous soap star in the witness protection scheme 
+,{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.5859}
+a supernatural renegade mercenary living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking streetsmart bodyguard trying to make a difference in a man's world 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious paranoid archaeologist with a knack for trouble 
+,{'neg': 0.409, 'neu': 0.348, 'pos': 0.243, 'compound': -0.2263}
+a violent snooty advertising executive on her way to prison for a murder she didn't commit 
+,{'neg': 0.58, 'neu': 0.42, 'pos': 0.0, 'compound': -0.9299}
+a pregnant belly-dancing politiciawho inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic tomboy wrestler with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking snooty wrestler fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a radical belly-dancing queen of the dead on the trail of a serial killer 
+,{'neg': 0.462, 'neu': 0.538, 'pos': 0.0, 'compound': -0.8625}
+a wealthy renegade femme fatale who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.574, 'pos': 0.426, 'compound': 0.6369}
+a wealthy motormouth journalist operating on the wrong side of the law 
+,{'neg': 0.212, 'neu': 0.616, 'pos': 0.171, 'compound': -0.1531}
+a sarcastic antique-collecting former first lady who dreams of becoming Elvis 
+,{'neg': 0.157, 'neu': 0.63, 'pos': 0.213, 'compound': 0.1779}
+a manipulative insomniac soap star descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.4215}
+a high-kicking snooty stripper living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned psychic college professor on the trail of a serial killer 
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+a violent belly-dancing politiciawith a flame-thrower 
+,{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.5994}
+a scantily clad junkie museum curator with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal psychic museum curator with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling communist Valkyrie who don't take no shit from nobody 
+,{'neg': 0.0, 'neu': 0.624, 'pos': 0.376, 'compound': 0.5875}
+a warm-hearted African-Americasocialite with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a ditzy mute lawyer from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten junkie opera singer living homeless in New York's sewers  a wealthy gold-digging schoolgirl prone to fits of savage, blood-crazed rage
+,{'neg': 0.253, 'neu': 0.651, 'pos': 0.096, 'compound': -0.6249}
+a transdimensional kleptomaniac detective from beyond the grave
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a man-hating winged nun trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative red-headed hooker with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a blind mute soap star who dreams of becoming Elvis
+,{'neg': 0.218, 'neu': 0.565, 'pos': 0.218, 'compound': 0.0}
+a virginal mutant bodyguard from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious Boliviacollege professor with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a supernatural blonde cab driver in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating kleptomaniac barmaid with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant red-headed magician's assistant with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed mute safe cracker who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}
+aelegant hip-hop politiciafrom Mars
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitahypochondriac femme fatale from Mars
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic hip-hop wrestler with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a blind tempestuous soap star who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}
+a strong-willed renegade Hell's Angel with someone else's memories
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical blonde lawyer who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.3818}
+a cynical wisecracking socialite from beyond the grave
+,{'neg': 0.63, 'neu': 0.37, 'pos': 0.0, 'compound': -0.7003}
+a man-hating thirtysomething soap star who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a green-fingered impetuous barmaid from beyond the grave
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a green-fingered impetuous nun with the power to see death
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+a beautiful punk research scientist with the power to bend men's minds
+,{'neg': 0.0, 'neu': 0.719, 'pos': 0.281, 'compound': 0.5994}
+a cold-hearted cigar-chomping bounty hunter with only herself to blame
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}
+a supernatural gold-digging mermaid with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant streetsmart bounty hunter with aMBA from Harvard
+,{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.5859}
+aorphaned cigar-chomping doctor in the wrong place at the wrong time
+,{'neg': 0.408, 'neu': 0.592, 'pos': 0.0, 'compound': -0.7351}
+a transdimensional belly-dancing widow from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical gypsy pearl diver with the power to bend men's minds
+,{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.3818}
+a beautiful gold-digging socialite on the trail of a serial killer
+,{'neg': 0.283, 'neu': 0.461, 'pos': 0.257, 'compound': -0.1027}
+a virginal mute fairy princess on her way to prison for a murder she didn't commit
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a warm-hearted French-Canadiajournalist looking for love in all the wrong places
+,{'neg': 0.203, 'neu': 0.523, 'pos': 0.275, 'compound': 0.2732}
+a sharp-shooting African-Americamechanic with the power to see death
+,{'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994}
+a beautiful paranoid college professor prone to fits of savage, blood-crazed rage
+,{'neg': 0.441, 'neu': 0.359, 'pos': 0.2, 'compound': -0.5719}
+a disco-crazy motormouth magician's assistant from beyond the grave
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a foxy tomboy vampire on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a pregnant thirtysomething barmaid from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad hypochondriac widow married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking wisecracking mermaid from a family of eight older brothers
+,{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.1531}
+a violent nymphomaniac single mother on the trail of a serial killer
+,{'neg': 0.506, 'neu': 0.494, 'pos': 0.0, 'compound': -0.8481}
+a chain-smoking mutant queen of the dead who dreams of becoming Elvis
+,{'neg': 0.269, 'neu': 0.562, 'pos': 0.169, 'compound': -0.3818}
+aelegant wisecracking college professor with a flame-thrower
+,{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.1531}
+a sharp-shooting renegade soap star looking for love in all the wrong places
+,{'neg': 0.179, 'neu': 0.578, 'pos': 0.243, 'compound': 0.2732}
+a blind wisecracking bounty hunter from a different time and place
+,{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.5106}
+a sharp-shooting wisecracking wrestler from beyond the grave
+,{'neg': 0.457, 'neu': 0.543, 'pos': 0.0, 'compound': -0.4939}
+a blind out-of-work barmaid with a flame-thrower
+,{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}
+aartistic green-skinned archaeologist married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking cigar-chomping opera singer on the trail of a serial killer
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+a tortured kleptomaniac wrestler prone to fits of savage, blood-crazed rage
+,{'neg': 0.593, 'neu': 0.407, 'pos': 0.0, 'compound': -0.8807}
+a transdimensional mute fairy princess who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+aartistic winged mermaid who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+a man-hating red-headed nun from a family of eight older brothers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful out-of-work snake charmer with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}
+a warm-hearted nymphomaniac college professor who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a tortured impetuous magician's assistant who dreams of becoming Elvis
+,{'neg': 0.271, 'neu': 0.526, 'pos': 0.203, 'compound': -0.2263}
+a hard-bitten cigar-chomping museum curator living on borrowed time
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad cat-loving vampire with a knack for trouble
+,{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4019}
+aelegant junkie college professor from a secret island of warrior women
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful snooty detective with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant bisexual soap star with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional Boliviaadvertising executive with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a foxy African-Americaformer first lady with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant punk soap star with someone else's memories
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful African-Americatraffic cop in the witness protection scheme
+,{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.5994}
+a man-hating green-skinned soap star with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned mute stripper with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting belly-dancing mermaid who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}
+a scantily clad Boliviasoap star living on borrowed time
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful communist hooker who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}
+a chain-smoking foul-mouthed widow from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted impetuous vampire living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted bisexual single mother on the trail of a serial killer
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+a bloodthirsty French-Canadiamermaid in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic foul-mouthed Hell's Angel from out of town
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant French-Canadiabounty hunter descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a cynical African-Americapearl diver with a birthmark shaped like Liberty's torch
+,{'neg': 0.215, 'neu': 0.579, 'pos': 0.207, 'compound': -0.0258}
+a green-fingered winged schoolgirl who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy Boliviatraffic cop descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.569, 'pos': 0.431, 'compound': 0.6486}
+a cynical winged advertising executive prone to fits of savage, blood-crazed rage
+,{'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.8481}
+a hard-bitten mute college professor on her way to prison for a murder she didn't commit
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a sarcastic bisexual cab driver with aMBA from Harvard
+,{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}
+
+,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted wisecracking fairy princess trying to make a difference in a man's world
+,{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.1531}
+a bloodthirsty mutant snake charmer with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}
+a bloodthirsty hypochondriac widow from a family of eight older brothers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a blind antique-collecting mercenary descended from a line of powerful witches
+,{'neg': 0.216, 'neu': 0.56, 'pos': 0.224, 'compound': 0.0258}
+a time-travelling paranoid Hell's Angel with the power to see death
+,{'neg': 0.424, 'neu': 0.576, 'pos': 0.0, 'compound': -0.7096}
+a strong-willed green-skinned schoolgirl in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten gypsy mermaid operating on the wrong side of the law
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a time-travelling mutant mermaid with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed insomniac Hell's Angel who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+a chain-smoking snooty queen of the dead with the soul of a mighty warrior
+,{'neg': 0.281, 'neu': 0.719, 'pos': 0.0, 'compound': -0.6486}
+a psychotic insomniac mechanic trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling cat-loving bodyguard operating on the wrong side of the law
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a pregnant blonde hooker on the trail of a serial killer
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+aartistic goth mercenary with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic insomniac opera singer with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy punk pearl diver from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent goth pearl diver with aincredible destiny
+,{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.5994}
+a wealthy renegade mechanic living on borrowed time
+,{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.3612}
+
+,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered motormouth traffic cop with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy snooty Valkyrie with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating communist journalist descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a virginal kleptomaniac schoolgirl with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad foul-mouthed Valkyrie fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative mute magician's assistant fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious cat-loving former first lady with the power to bend men's minds
+,{'neg': 0.0, 'neu': 0.797, 'pos': 0.203, 'compound': 0.4215}
+a high-kicking paranoid mermaid from a different time and place
+,{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}
+aenchanted belly-dancing mechanic with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy motormouth museum curator from Mars
+,{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}
+a wealthy motormouth wrestler with a flame-thrower
+,{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}
+a cold-hearted renegade single mother in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted foul-mouthed magician's assistant with only herself to blame
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}
+a tortured punk lawyer with the power to see death
+,{'neg': 0.517, 'neu': 0.483, 'pos': 0.0, 'compound': -0.8176}
+a radical punk doctor from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a sharp-shooting mutant Hell's Angel from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a ditzy cigar-chomping hooker with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural tomboy traffic cop with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad mutant detective from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a foxy hip-hop wrestler with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky extravagent hooker with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky psychic politiciafrom the wrong side of the tracks
+,{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.4767}
+a transdimensional gypsy journalist from out of town
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative blonde bounty hunter who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating wisecracking detective in the wrong place at the wrong time
+,{'neg': 0.494, 'neu': 0.506, 'pos': 0.0, 'compound': -0.7783}
+a plucky kleptomaniac traffic cop with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal gold-digging stripper with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty antique-collecting snake charmer who don't take no shit from nobody
+,{'neg': 0.0, 'neu': 0.509, 'pos': 0.491, 'compound': 0.7725}
+a chain-smoking extravagent queen of the dead who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.275, 'neu': 0.55, 'pos': 0.174, 'compound': -0.296}
+a cynical mute bodyguard with aincredible destiny
+,{'neg': 0.342, 'neu': 0.658, 'pos': 0.0, 'compound': -0.3818}
+a strong-willed motormouth mercenary who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal renegade widow with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful wisecracking mercenary with the power to see death
+,{'neg': 0.44, 'neu': 0.56, 'pos': 0.0, 'compound': -0.6705}
+a pregnant paranoid mechanic prone to fits of savage, blood-crazed rage
+,{'neg': 0.551, 'neu': 0.449, 'pos': 0.0, 'compound': -0.8225}
+a brilliant insomniac single mother with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.5859}
+a hard-bitten hip-hop fairy princess from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a pregnant wisecracking mermaid from the wrong side of the tracks
+,{'neg': 0.37, 'neu': 0.63, 'pos': 0.0, 'compound': -0.5719}
+a tortured Bolivianun with only herself to blame
+,{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.7184}
+a transdimensional goth stripper who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+aartistic mutant cab driver living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable hypochondriac nun with a knack for trouble
+,{'neg': 0.464, 'neu': 0.536, 'pos': 0.0, 'compound': -0.6369}
+a cosmopolitacigar-chomping pearl diver married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative cigar-chomping mechanic fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered cat-loving single mother trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy insomniac mercenary in the witness protection scheme
+,{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+a foxy snooty bounty hunter looking for love in all the wrong places
+,{'neg': 0.179, 'neu': 0.578, 'pos': 0.243, 'compound': 0.2732}
+a supernatural red-headed barmaid fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic blonde journalist with a knack for trouble
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a transdimensional renegade single mother who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+aartistic tempestuous traffic cop from the wrong side of the tracks a man-hating kleptomaniac queen of the dead with a birthmark shaped like Liberty's torch 
+,{'neg': 0.247, 'neu': 0.669, 'pos': 0.084, 'compound': -0.7096}
+a violent cigar-chomping mermaid fleeing from a Satanic cult 
+,{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.5994}
+a radical insomniac magician's assistant in the witness protection scheme 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted French-Canadiamuseum curator fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful streetsmart hooker trying to make a difference in a man's world 
+,{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.5994}
+a chain-smoking cigar-chomping lawyer with only herself to blame 
+,{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}
+a plucky red-headed pearl diver on her way to prison for a murder she didn't commit 
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a beautiful streetsmart stripper with only herself to blame 
+,{'neg': 0.195, 'neu': 0.488, 'pos': 0.317, 'compound': 0.3612}
+a time-travelling belly-dancing museum curator married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed kleptomaniac nun in the wrong place at the wrong time 
+,{'neg': 0.408, 'neu': 0.592, 'pos': 0.0, 'compound': -0.7351}
+a transdimensional gypsy safe cracker looking for love in all the wrong places 
+,{'neg': 0.161, 'neu': 0.469, 'pos': 0.37, 'compound': 0.6124}
+a sarcastic winged detective with a birthmark shaped like Liberty's torch 
+,{'neg': 0.174, 'neu': 0.609, 'pos': 0.217, 'compound': 0.128}
+a chain-smoking streetsmart doctor with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty African-Americabodyguard who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed nymphomaniac traffic cop with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking cat-loving mermaid with the power to see death 
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+aorphaned hypochondriac research scientist with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+aelegant wisecracking queen of the dead with a song in her heart and a spring in her step 
+,{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.7096}
+a mistrustful goth hooker descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a beautiful communist safe cracker who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.08, 'neu': 0.423, 'pos': 0.498, 'compound': 0.872}
+a bloodthirsty impetuous barmaid married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a ditzy hip-hop mermaid looking for love in all the wrong places 
+,{'neg': 0.19, 'neu': 0.552, 'pos': 0.258, 'compound': 0.2732}
+a cynical thirtysomething doctor with a flame-thrower 
+,{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}
+a beautiful green-skinned museum curator with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.7506}
+a sarcastic tempestuous fairy princess with her own daytime radio talk show 
+,{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.25}
+a violent French-Canadiacollege professor prone to fits of savage, blood-crazed rage 
+,{'neg': 0.6, 'neu': 0.4, 'pos': 0.0, 'compound': -0.8885}
+a radical hypochondriac doctor with the power to bend men's minds 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking winged bodyguard looking for love in all the wrong places 
+,{'neg': 0.19, 'neu': 0.552, 'pos': 0.258, 'compound': 0.2732}
+a high-kicking blonde traffic cop from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal tempestuous widow in the wrong place at the wrong time 
+,{'neg': 0.408, 'neu': 0.592, 'pos': 0.0, 'compound': -0.7351}
+a vivacious antique-collecting advertising executive with the power to bend men's minds 
+,{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.4215}
+a brilliant kleptomaniac traffic cop who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.7579}
+a time-travelling mutant college professor from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty snooty barmaid with aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable wisecracking angel who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.272, 'neu': 0.728, 'pos': 0.0, 'compound': -0.4767}
+a cynical hip-hop Valkyrie who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.251, 'neu': 0.526, 'pos': 0.222, 'compound': 0.128}
+a sarcastic belly-dancing widow who don't take no shit from nobody 
+,{'neg': 0.145, 'neu': 0.507, 'pos': 0.348, 'compound': 0.4238}
+a cold-hearted thirtysomething fairy princess with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking Buddhist safe cracker with aevil twin sister 
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a brilliant insomniac vampire who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.48, 'pos': 0.52, 'compound': 0.7579}
+a psychotic wisecracking detective from aristocratic Europeastock 
+,{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.1531}
+aorphaned motormouth college professor from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky antique-collecting journalist from the wrong side of the tracks 
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a hard-bitten French-Canadiamermaid from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative African-Americasnake charmer prone to fits of savage, blood-crazed rage 
+,{'neg': 0.4, 'neu': 0.424, 'pos': 0.176, 'compound': -0.5719}
+a blind Boliviabounty hunter from the wrong side of the tracks 
+,{'neg': 0.42, 'neu': 0.58, 'pos': 0.0, 'compound': -0.7003}
+a time-travelling nymphomaniac soap star who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a foxy out-of-work bodyguard with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitakleptomaniac journalist living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative communist soap star living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative out-of-work barmaid from Mars
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting goth doctor fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten paranoid opera singer who don't take no shit from nobody
+,{'neg': 0.135, 'neu': 0.54, 'pos': 0.325, 'compound': 0.4238}
+aenchanted punk mechanic on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+
+,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad winged detective with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted antique-collecting Valkyrie with someone else's memories
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered junkie doctor from the wrong side of the tracks
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a strong-willed out-of-work opera singer in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic insomniac snake charmer with a birthmark shaped like Liberty's torch
+,{'neg': 0.139, 'neu': 0.486, 'pos': 0.375, 'compound': 0.5267}
+a brilliant antique-collecting fairy princess with the power to bend men's minds
+,{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.5859}
+a green-fingered green-skinned magician's assistant with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic French-Canadiatraffic cop with the power to bend men's minds
+,{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.25}
+a vivacious winged nun on the trail of a serial killer
+,{'neg': 0.305, 'neu': 0.496, 'pos': 0.199, 'compound': -0.3612}
+a brilliant extravagent former first lady with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.5859}
+a time-travelling winged traffic cop with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a strong-willed paranoid mermaid married to the Mob
+,{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}
+aelegant communist Hell's Angel from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted hip-hop advertising executive who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional green-skinned soap star who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a radical French-Canadiapearl diver with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant wisecracking soap star who dreams of becoming Elvis
+,{'neg': 0.142, 'neu': 0.619, 'pos': 0.239, 'compound': 0.2732}
+a cynical wisecracking wrestler from a secret island of warrior women
+,{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.4939}
+a provocative African-Americafairy princess from a family of eight older brothers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable out-of-work pearl diver descended from a line of powerful witches
+,{'neg': 0.175, 'neu': 0.629, 'pos': 0.196, 'compound': 0.0772}
+a high-kicking mute detective living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant Buddhist mercenary with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking impetuous archaeologist with only herself to blame
+,{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}
+a time-travelling extravagent advertising executive who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed insomniac soap star with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted nymphomaniac journalist descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+
+,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling French-Canadiabounty hunter operating on the wrong side of the law
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a radical gypsy nun on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a plucky insomniac traffic cop from the wrong side of the tracks
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a transdimensional thirtysomething advertising executive with the power to bend men's minds
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad mutant angel with only herself to blame
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}
+a chain-smoking antique-collecting detective who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful African-Americastripper looking for love in all the wrong places
+,{'neg': 0.17, 'neu': 0.385, 'pos': 0.445, 'compound': 0.7184}
+a virginal bisexual detective who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+a disco-crazy mutant archaeologist with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a foxy junkie mechanic with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal extravagent pearl diver prone to fits of savage, blood-crazed rage
+,{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765}
+aelegant mutant traffic cop with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty red-headed politiciafleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty renegade archaeologist who catalk to animals
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+a tortured mute queen of the dead from Mars
+,{'neg': 0.568, 'neu': 0.432, 'pos': 0.0, 'compound': -0.836}
+a pregnant streetsmart vampire from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a cold-hearted cat-loving detective trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical extravagent mercenary with the power to see death
+,{'neg': 0.481, 'neu': 0.519, 'pos': 0.0, 'compound': -0.7579}
+a psychotic African-Americaschoolgirl with only herself to blame
+,{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.34}
+a ditzy insomniac museum curator living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad belly-dancing lawyer married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant thirtysomething nun with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling gypsy archaeologist from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a psychotic cigar-chomping stripper descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a supernatural antique-collecting nun trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling junkie fairy princess who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a time-travelling streetsmart advertising executive with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a radical mute stripper on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+aartistic nymphomaniac snake charmer prone to fits of savage, blood-crazed rage
+,{'neg': 0.377, 'neu': 0.457, 'pos': 0.166, 'compound': -0.5719}
+a warm-hearted mutant doctor with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty insomniac soap star with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty paranoid wrestler from a different time and place
+,{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}
+aelegant hypochondriac archaeologist from the wrong side of the tracks
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a green-fingered junkie mermaid married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten green-skinned museum curator who catalk to animals
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative communist former first lady who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a ditzy African-Americadoctor living on borrowed time
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling gold-digging advertising executive with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking Buddhist cab driver on her way to prison for a murder she didn't commit
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a radical goth Valkyrie from a secret island of warrior women
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky tempestuous barmaid from the wrong side of the tracks
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a brilliant French-Canadiawrestler with a flame-thrower
+,{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.5859}
+a warm-hearted insomniac mermaid who catalk to animals
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted belly-dancing Hell's Angel with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic mutant Hell's Angel with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical French-Canadiasafe cracker prone to fits of savage, blood-crazed rage
+,{'neg': 0.568, 'neu': 0.432, 'pos': 0.0, 'compound': -0.8481}
+a beautiful renegade museum curator who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.515, 'pos': 0.485, 'compound': 0.765}
+a cosmopolitagoth nun with the power to see death
+,{'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994}
+aorphaned psychic vampire in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted punk college professor with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky junkie magician's assistant on her way to prison for a murder she didn't commit
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a ditzy Buddhist mechanic on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a virginal cigar-chomping mechanic prone to fits of savage, blood-crazed rage
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+a man-hating nymphomaniac femme fatale from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a radical African-Americapoliticiaon her way to prison for a murder she didn't commit
+,{'neg': 0.553, 'neu': 0.447, 'pos': 0.0, 'compound': -0.8717}
+a wealthy renegade stripper with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.3612}
+a virginal nymphomaniac queen of the dead operating on the wrong side of the law
+,{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.8126}
+a sharp-shooting bisexual hooker with a knack for trouble
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a foxy mute former first lady with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}
+a bloodthirsty Buddhist mechanic with a knack for trouble
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a sarcastic French-Canadiacollege professor with her own daytime radio talk show
+,{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.25}
+a sarcastic out-of-work hooker who dreams of becoming Elvis
+,{'neg': 0.187, 'neu': 0.561, 'pos': 0.252, 'compound': 0.1779}
+a pregnant winged museum curator from the wrong side of the tracks
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+aenchanted goth pearl diver descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.4215}
+a scantily clad extravagent magician's assistant with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating streetsmart traffic cop from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative belly-dancing socialite with aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a blind motormouth barmaid from beyond the grave 
+,{'neg': 0.515, 'neu': 0.485, 'pos': 0.0, 'compound': -0.6486}
+a virginal snooty queen of the dead who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.223, 'neu': 0.777, 'pos': 0.0, 'compound': -0.6486}
+aelegant out-of-work former first lady looking for love in all the wrong places 
+,{'neg': 0.169, 'neu': 0.601, 'pos': 0.23, 'compound': 0.2732}
+a mistrustful tomboy politiciawith a knack for trouble 
+,{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}
+a cynical out-of-work lawyer with someone else's memories 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a strong-willed out-of-work detective with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitablonde widow with a knack for trouble 
+,{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}
+a foxy bisexual snake charmer with a flame-thrower 
+,{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+a hard-bitten wisecracking femme fatale in the wrong place at the wrong time 
+,{'neg': 0.464, 'neu': 0.536, 'pos': 0.0, 'compound': -0.7783}
+aenchanted mute single mother living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic kleptomaniac doctor living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting blonde pearl diver who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+aenchanted renegade snake charmer descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.584, 'pos': 0.416, 'compound': 0.6908}
+a time-travelling tempestuous traffic cop who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative winged pearl diver on the trail of a serial killer 
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+aorphaned blonde socialite who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted junkie college professor from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating communist pearl diver who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a blind wisecracking nun with the soul of a mighty warrior 
+,{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.5106}
+a violent cigar-chomping journalist with a song in her heart and a spring in her step 
+,{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.5994}
+a vivacious nymphomaniac politiciamarried to the Mob 
+,{'neg': 0.0, 'neu': 0.641, 'pos': 0.359, 'compound': 0.4215}
+a hard-bitten mutant snake charmer in the witness protection scheme 
+,{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.4404}
+a psychotic wisecracking mechanic with her own daytime radio talk show 
+,{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.1531}
+a ditzy African-Americacab driver who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating out-of-work mercenary with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad cigar-chomping stripper with aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned kleptomaniac college professor with the power to see death 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994}
+a manipulative junkie femme fatale with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic winged advertising executive from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic belly-dancing bodyguard fleeing from a Satanic cult 
+,{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}
+a radical psychic advertising executive fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical thirtysomething queen of the dead who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.33, 'neu': 0.67, 'pos': 0.0, 'compound': -0.7845}
+a foxy Buddhist opera singer who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a cynical French-Canadiaangel in the witness protection scheme 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a warm-hearted paranoid nun descended from a line of powerful witches 
+,{'neg': 0.169, 'neu': 0.593, 'pos': 0.237, 'compound': 0.2023}
+aorphaned renegade bounty hunter on the trail of a serial killer 
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+a provocative Boliviawrestler trying to make a difference in a man's world 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a blind junkie stripper living homeless in New York's sewers 
+,{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}
+a plucky mute mechanic from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad punk socialite from the wrong side of the tracks 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a disco-crazy mute traffic cop from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful cigar-chomping barmaid from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting French-Canadiaadvertising executive from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious out-of-work single mother who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}
+aenchanted insomniac mermaid with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a cosmopolitabisexual mechanic trying to make a difference in a man's world 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten snooty mechanic with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed nymphomaniac safe cracker with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}
+a disco-crazy bisexual Valkyrie who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+aartistic mutant queen of the dead who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.223, 'neu': 0.777, 'pos': 0.0, 'compound': -0.6486}
+a ditzy impetuous hooker from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitamotormouth bodyguard with the power to see death 
+,{'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994}
+a sarcastic antique-collecting snake charmer prone to fits of savage, blood-crazed rage 
+,{'neg': 0.465, 'neu': 0.378, 'pos': 0.157, 'compound': -0.6908}
+a foxy blonde politicialiving homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant foul-mouthed lawyer from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative extravagent lawyer who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking antique-collecting single mother with only herself to blame 
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}
+a wealthy bisexual hooker in the witness protection scheme 
+,{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+a warm-hearted kleptomaniac stripper from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a foxy French-Canadiawidow from the wrong side of the tracks 
+,{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.4767}
+a sharp-shooting psychic widow from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted gypsy politiciawith a knack for trouble 
+,{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}
+a time-travelling tomboy nun from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting African-Americaschoolgirl from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating kleptomaniac traffic cop with someone else's memories 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant antique-collecting cab driver married to the Mob 
+,{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.5859}
+a virginal winged Hell's Angel with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical Buddhist journalist with aincredible destiny 
+,{'neg': 0.342, 'neu': 0.658, 'pos': 0.0, 'compound': -0.3818}
+a radical punk detective from the wrong side of the tracks 
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a scantily clad thirtysomething detective with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating gypsy cab driver from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant French-Canadiabarmaid from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten gold-digging wrestler with a knack for trouble 
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a chain-smoking gold-digging mercenary descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+aorphaned paranoid traffic cop with a birthmark shaped like Liberty's torch 
+,{'neg': 0.16, 'neu': 0.64, 'pos': 0.2, 'compound': 0.128}
+a plucky green-skinned snake charmer who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.092, 'neu': 0.543, 'pos': 0.364, 'compound': 0.7184}
+a cynical gold-digging lawyer who catalk to animals 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a green-fingered mutant snake charmer on her way to prison for a murder she didn't commit 
+,{'neg': 0.434, 'neu': 0.439, 'pos': 0.127, 'compound': -0.7899}
+a mentally unstable mutant Hell's Angel with a flame-thrower 
+,{'neg': 0.294, 'neu': 0.706, 'pos': 0.0, 'compound': -0.3612}
+a vivacious impetuous queen of the dead looking for love in all the wrong places 
+,{'neg': 0.303, 'neu': 0.41, 'pos': 0.287, 'compound': -0.1027}
+a sarcastic African-Americafairy princess from a different time and place 
+,{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}
+a wealthy thirtysomething mermaid with only herself to blame 
+,{'neg': 0.22, 'neu': 0.55, 'pos': 0.229, 'compound': 0.0258}
+a beautiful Boliviasafe cracker from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 0.672, 'pos': 0.328, 'compound': 0.5994}
+a manipulative hip-hop snake charmer with aevil twin sister 
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a sarcastic psychic queen of the dead with aMBA from Harvard 
+,{'neg': 0.441, 'neu': 0.559, 'pos': 0.0, 'compound': -0.743}
+a strong-willed psychic research scientist prone to fits of savage, blood-crazed rage 
+,{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765}
+a green-fingered thirtysomething vampire with someone else's memories 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a radical tomboy advertising executive from the wrong side of the tracks 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a radical tomboy journalist prone to fits of savage, blood-crazed rage 
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+a high-kicking motormouth mercenary from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful psychic bounty hunter who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+a radical out-of-work snake charmer operating on the wrong side of the law 
+,{'neg': 0.194, 'neu': 0.625, 'pos': 0.181, 'compound': -0.0516}
+a provocative goth vampire with someone else's memories 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable impetuous single mother with a flame-thrower 
+,{'neg': 0.294, 'neu': 0.706, 'pos': 0.0, 'compound': -0.3612}
+aorphaned motormouth angel with only herself to blame 
+,{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}
+a cosmopolitaextravagent archaeologist with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking motormouth advertising executive married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative gypsy mercenary living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy hip-hop mechanic prone to fits of savage, blood-crazed rage 
+,{'neg': 0.41, 'neu': 0.435, 'pos': 0.155, 'compound': -0.6249}
+a green-fingered Boliviaadvertising executive living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten tomboy museum curator with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky nymphomaniac traffic cop operating on the wrong side of the law 
+,{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}
+a cosmopolitajunkie fairy princess prone to fits of savage, blood-crazed rage 
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+a high-kicking punk queen of the dead with the soul of a mighty warrior 
+,{'neg': 0.281, 'neu': 0.719, 'pos': 0.0, 'compound': -0.6486}
+a transdimensional renegade safe cracker looking for love in all the wrong places 
+,{'neg': 0.161, 'neu': 0.469, 'pos': 0.37, 'compound': 0.6124}
+a warm-hearted bisexual barmaid with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious red-headed wrestler from Mars 
+,{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.4215}
+a blind thirtysomething mercenary from beyond the grave 
+,{'neg': 0.515, 'neu': 0.485, 'pos': 0.0, 'compound': -0.6486}
+a mentally unstable punk mechanic with a song in her heart and a spring in her step 
+,{'neg': 0.161, 'neu': 0.839, 'pos': 0.0, 'compound': -0.3612}
+a tortured tempestuous bounty hunter with a knack for trouble 
+,{'neg': 0.512, 'neu': 0.488, 'pos': 0.0, 'compound': -0.743}
+a mentally unstable goth Valkyrie who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.233, 'neu': 0.556, 'pos': 0.211, 'compound': 0.1531}
+a tortured foul-mouthed femme fatale from a secret island of warrior women 
+,{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.5574}
+a green-fingered green-skinned queen of the dead who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.275, 'neu': 0.55, 'pos': 0.174, 'compound': -0.296}
+a vivacious paranoid vampire descended from a line of powerful witches 
+,{'neg': 0.147, 'neu': 0.441, 'pos': 0.412, 'compound': 0.5574}
+a brilliant antique-collecting hooker looking for love in all the wrong places 
+,{'neg': 0.162, 'neu': 0.419, 'pos': 0.419, 'compound': 0.7096}
+aenchanted cat-loving nun living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic red-headed mermaid who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.25}
+a provocative gold-digging fairy princess who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+a disco-crazy antique-collecting schoolgirl from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking goth college professor from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative gold-digging hooker with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a blind tomboy mermaid on the trail of a serial killer 
+,{'neg': 0.5, 'neu': 0.5, 'pos': 0.0, 'compound': -0.7906}
+a provocative Boliviacollege professor prone to fits of savage, blood-crazed rage 
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+a wealthy red-headed hooker operating on the wrong side of the law 
+,{'neg': 0.212, 'neu': 0.616, 'pos': 0.171, 'compound': -0.1531}
+a vivacious kleptomaniac soap star who don't take no shit from nobody 
+,{'neg': 0.0, 'neu': 0.512, 'pos': 0.488, 'compound': 0.7658}
+a sarcastic insomniac angel from a secret island of warrior women 
+,{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}
+a foxy kleptomaniac femme fatale from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable hypochondriac angel with only herself to blame 
+,{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.5994}
+a vivacious snooty safe cracker prone to fits of savage, blood-crazed rage 
+,{'neg': 0.342, 'neu': 0.363, 'pos': 0.295, 'compound': -0.2263}
+a ditzy tempestuous lawyer prone to fits of savage, blood-crazed rage 
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+aelegant red-headed doctor married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking renegade vampire descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a manipulative red-headed bodyguard with someone else's memories 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted Buddhist barmaid operating on the wrong side of the law 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a bloodthirsty tempestuous nun living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking hypochondriac politiciaoperating on the wrong side of the law 
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a sarcastic hypochondriac journalist trying to make a difference in a man's world 
+,{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.25}
+a brilliant psychic queen of the dead with someone else's memories 
+,{'neg': 0.267, 'neu': 0.497, 'pos': 0.236, 'compound': -0.128}
+a man-hating impetuous lawyer with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant renegade soap star fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant motormouth detective from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal bisexual bodyguard from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a man-hating punk mechanic looking for love in all the wrong places 
+,{'neg': 0.19, 'neu': 0.552, 'pos': 0.258, 'compound': 0.2732}
+a hard-bitten motormouth college professor operating on the wrong side of the law 
+,{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}
+a supernatural psychic bounty hunter with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy paranoid magician's assistant in the witness protection scheme 
+,{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}
+a cynical insomniac wrestler in the witness protection scheme 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a transdimensional foul-mouthed magician's assistant from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious kleptomaniac safe cracker in the wrong place at the wrong time 
+,{'neg': 0.312, 'neu': 0.402, 'pos': 0.286, 'compound': -0.128}
+a green-fingered junkie widow living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted nymphomaniac schoolgirl with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered tempestuous schoolgirl with a knack for trouble
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a tortured red-headed archaeologist in the witness protection scheme
+,{'neg': 0.34, 'neu': 0.66, 'pos': 0.0, 'compound': -0.5574}
+a blind belly-dancing former first lady who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.172, 'neu': 0.828, 'pos': 0.0, 'compound': -0.4019}
+a vivacious blonde Valkyrie with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a ditzy cigar-chomping safe cracker with a knack for trouble
+,{'neg': 0.233, 'neu': 0.517, 'pos': 0.25, 'compound': 0.0516}
+a tortured foul-mouthed mercenary from beyond the grave
+,{'neg': 0.554, 'neu': 0.446, 'pos': 0.0, 'compound': -0.7351}
+a violent foul-mouthed college professor from a family of eight older brothers
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994}
+aelegant African-Americacab driver fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky paranoid pearl diver from a different time and place
+,{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}
+a manipulative cigar-chomping snake charmer with someone else's memories
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a brilliant insomniac Hell's Angel from beyond the grave
+,{'neg': 0.21, 'neu': 0.484, 'pos': 0.306, 'compound': 0.296}
+a radical blonde mechanic from beyond the grave
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a cynical communist Valkyrie fleeing from a Satanic cult
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a green-fingered streetsmart lawyer with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative communist pearl diver prone to fits of savage, blood-crazed rage
+,{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765}
+a chain-smoking paranoid mermaid with the soul of a mighty warrior
+,{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}
+a cynical communist magician's assistant from beyond the grave
+,{'neg': 0.464, 'neu': 0.536, 'pos': 0.0, 'compound': -0.6369}
+a scantily clad punk queen of the dead with aincredible destiny
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+a foxy punk Valkyrie on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a time-travelling impetuous mermaid with the power to see death
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+a pregnant motormouth mermaid descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a psychotic punk wrestler who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious junkie archaeologist from Mars
+,{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.4215}
+a warm-hearted communist museum curator fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical belly-dancing opera singer fleeing from a Satanic cult
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a high-kicking cigar-chomping mermaid who don't take no shit from nobody
+,{'neg': 0.0, 'neu': 0.624, 'pos': 0.376, 'compound': 0.5875}
+a ditzy kleptomaniac former first lady who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative paranoid mechanic from out of town
+,{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}
+a wealthy cigar-chomping mermaid who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.1, 'neu': 0.529, 'pos': 0.371, 'compound': 0.6808}
+a manipulative psychic opera singer with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful bisexual widow with a flame-thrower
+,{'neg': 0.0, 'neu': 0.506, 'pos': 0.494, 'compound': 0.5994}
+a green-fingered punk detective who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty insomniac opera singer looking for love in all the wrong places
+,{'neg': 0.179, 'neu': 0.578, 'pos': 0.243, 'compound': 0.2732}
+a time-travelling insomniac advertising executive from the wrong side of the tracks
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a chain-smoking extravagent magician's assistant operating on the wrong side of the law
+,{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}
+a blind belly-dancing advertising executive from a secret island of warrior women
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019}
+a beautiful insomniac opera singer with aMBA from Harvard
+,{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.5994}
+a brilliant streetsmart safe cracker descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.424, 'pos': 0.576, 'compound': 0.8591}
+a manipulative streetsmart archaeologist from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy streetsmart vampire with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a mentally unstable psychic traffic cop with a birthmark shaped like Liberty's torch
+,{'neg': 0.179, 'neu': 0.643, 'pos': 0.179, 'compound': 0.0}
+a disco-crazy psychic archaeologist with only herself to blame
+,{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}
+a blind communist doctor living homeless in New York's sewers
+,{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}
+aartistic tempestuous femme fatale who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a high-kicking mute socialite from a family of eight older brothers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty nymphomaniac nun with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful renegade fairy princess with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned thirtysomething barmaid in the witness protection scheme a cosmopolitamutant fairy princess descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.4215}
+a foxy kleptomaniac politiciaon her way to prison for a murder she didn't commit 
+,{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.8717}
+a pregnant hip-hop socialite prone to fits of savage, blood-crazed rage 
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+a cosmopolitared-headed lawyer who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted tomboy college professor with the power to bend men's minds 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical renegade detective married to the Mob 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a bloodthirsty tomboy bodyguard operating on the wrong side of the law 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a vivacious streetsmart queen of the dead with someone else's memories 
+,{'neg': 0.285, 'neu': 0.53, 'pos': 0.185, 'compound': -0.3612}
+aorphaned insomniac barmaid from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking thirtysomething mermaid with her own daytime radio talk show 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative snooty angel in the witness protection scheme 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent mute femme fatale from a secret island of warrior women 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994}
+a manipulative gold-digging museum curator with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant mute opera singer with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}
+a supernatural bisexual nun fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative African-Americastripper with the power to bend men's minds 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitahip-hop wrestler operating on the wrong side of the law 
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+a supernatural cat-loving archaeologist fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional paranoid traffic cop with the power to bend men's minds 
+,{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.25}
+a chain-smoking hypochondriac Valkyrie living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical punk traffic cop living on borrowed time 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a plucky motormouth magician's assistant prone to fits of savage, blood-crazed rage 
+,{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765}
+a blind motormouth femme fatale from a family of eight older brothers 
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019}
+a supernatural insomniac safe cracker who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}
+a tortured African-Americasnake charmer with the power to bend men's minds 
+,{'neg': 0.248, 'neu': 0.552, 'pos': 0.2, 'compound': -0.1779}
+aorphaned blonde wrestler with the power to see death 
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+a cold-hearted motormouth Valkyrie living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed green-skinned stripper fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative mutant opera singer from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating Buddhist detective who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}
+a manipulative gold-digging single mother who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted red-headed schoolgirl who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}
+a cold-hearted African-Americapoliticiawho hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.126, 'neu': 0.593, 'pos': 0.281, 'compound': 0.4767}
+a violent cat-loving magician's assistant in the wrong place at the wrong time 
+,{'neg': 0.529, 'neu': 0.471, 'pos': 0.0, 'compound': -0.8779}
+a time-travelling psychic bounty hunter with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural Boliviamercenary trying to make a difference in a man's world 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a ditzy Buddhist socialite who don't take no shit from nobody 
+,{'neg': 0.0, 'neu': 0.624, 'pos': 0.376, 'compound': 0.5875}
+aorphaned cat-loving college professor with aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitaextravagent cab driver living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad mute traffic cop with a knack for trouble 
+,{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}
+aartistic motormouth Hell's Angel with the power to bend men's minds 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a radical nymphomaniac hooker who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy foul-mouthed angel married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed kleptomaniac politiciawith aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic punk stripper with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious thirtysomething vampire descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.6808}
+a man-hating cigar-chomping soap star who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a radical cat-loving archaeologist descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a scantily clad bisexual mechanic living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy kleptomaniac pearl diver fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal tempestuous lawyer who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+a vivacious foul-mouthed nun with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a supernatural junkie nun with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitaout-of-work journalist from a family of eight older brothers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative cat-loving mechanic who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy green-skinned vampire on the trail of a serial killer
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a disco-crazy bisexual femme fatale with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a supernatural bisexual magician's assistant with only herself to blame
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}
+a radical impetuous soap star who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a brilliant tempestuous snake charmer operating on the wrong side of the law
+,{'neg': 0.165, 'neu': 0.479, 'pos': 0.356, 'compound': 0.5574}
+aelegant mute safe cracker from out of town
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a cold-hearted blonde former first lady from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic Boliviawidow with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent goth archaeologist with a flame-thrower
+,{'neg': 0.494, 'neu': 0.506, 'pos': 0.0, 'compound': -0.5994}
+a radical thirtysomething doctor descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a brilliant tomboy stripper trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}
+a beautiful paranoid advertising executive descended from a line of powerful witches
+,{'neg': 0.127, 'neu': 0.446, 'pos': 0.427, 'compound': 0.6908}
+a pregnant communist wrestler with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty psychic angel fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking foul-mouthed queen of the dead from aristocratic Europeastock
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a green-fingered streetsmart nun who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative out-of-work single mother with the power to see death
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994}
+a cold-hearted renegade vampire on the trail of a serial killer
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a tortured foul-mouthed magician's assistant living homeless in New York's sewers
+,{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.5574}
+a mistrustful green-skinned magician's assistant married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative nymphomaniac mermaid with the power to see death
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+a time-travelling cigar-chomping detective from Mars
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned thirtysomething bounty hunter from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten mutant angel on the trail of a serial killer
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a supernatural insomniac femme fatale in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant foul-mouthed stripper who catalk to animals
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting antique-collecting magician's assistant trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant psychic widow living on borrowed time
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent Boliviasingle mother who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.5994}
+aenchanted junkie angel fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative gypsy former first lady with the power to bend men's minds
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative red-headed angel from out of town
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant mute cab driver who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal wisecracking lawyer from a different time and place
+,{'neg': 0.186, 'neu': 0.814, 'pos': 0.0, 'compound': -0.1531}
+a bloodthirsty tempestuous angel with someone else's memories
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling tomboy opera singer who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a manipulative kleptomaniac journalist with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking hypochondriac lawyer who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant psychic archaeologist married to the Mob
+,{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.5859}
+a high-kicking nymphomaniac stripper looking for love in all the wrong places
+,{'neg': 0.19, 'neu': 0.552, 'pos': 0.258, 'compound': 0.2732}
+a green-fingered snooty queen of the dead married to the Mob
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+aelegant renegade magician's assistant in the wrong place at the wrong time
+,{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.7351}
+a brilliant mute pearl diver on her way to prison for a murder she didn't commit
+,{'neg': 0.417, 'neu': 0.422, 'pos': 0.16, 'compound': -0.7259}
+aorphaned antique-collecting bodyguard with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful hypochondriac advertising executive with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy renegade former first lady who don't take no shit from nobody
+,{'neg': 0.0, 'neu': 0.552, 'pos': 0.448, 'compound': 0.744}
+a sharp-shooting streetsmart magician's assistant descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.4215}
+a foxy antique-collecting bounty hunter who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious extravagent former first lady from Mars
+,{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.4215}
+a strong-willed tempestuous bodyguard who catalk to animals
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional extravagent lawyer who catalk to animals
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling green-skinned barmaid from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted impetuous angel with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned cat-loving advertising executive who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+a provocative antique-collecting vampire from beyond the grav
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky foul-mouthed wrestler descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a wealthy punk fairy princess on her way to prison for a murder she didn't commit
+,{'neg': 0.442, 'neu': 0.447, 'pos': 0.112, 'compound': -0.812}
+a cosmopolitagoth vampire trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered communist femme fatale with a knack for trouble
+,{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4019}
+aartistic Boliviaadvertising executive trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant tempestuous safe cracker living on borrowed time
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a brilliant cat-loving snake charmer married to the Mob
+,{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.7717}
+a hard-bitten red-headed Valkyrie from a different time and place
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy goth cab driver on her way to prison for a murder she didn't commit
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a bloodthirsty gold-digging single mother with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten gold-digging schoolgirl from Mars
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered French-Canadianun with only herself to blame
+,{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.34}
+a cynical blonde Hell's Angel with aincredible destiny
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a green-fingered tomboy angel with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered thirtysomething advertising executive from aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic blonde lawyer with a song in her heart and a spring in her step
+,{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.25}
+a cold-hearted mute soap star operating on the wrong side of the law
+,{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}
+a strong-willed blonde schoolgirl on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a foxy French-Canadiabodyguard with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant gold-digging cab driver living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}
+a foxy kleptomaniac opera singer who believes she is the reincarnation of aancient Egyptiaqueen
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic kleptomaniac traffic cop operating on the wrong side of the law
+,{'neg': 0.338, 'neu': 0.662, 'pos': 0.0, 'compound': -0.6249}
+a cold-hearted goth barmaid on the trail of a serial killer
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a supernatural impetuous fairy princess in the wrong place at the wrong time
+,{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.7351}
+a bloodthirsty wisecracking nun with the power to bend men's minds
+,{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.1531}
+aorphaned goth detective who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a tortured antique-collecting college professor with her own daytime radio talk show
+,{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.5574}
+a plucky African-Americamermaid in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating impetuous journalist from a secret island of warrior women
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted nymphomaniac opera singer from out of town
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic paranoid soap star from out of town
+,{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}
+a psychotic punk research scientist in the witness protection scheme
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty cat-loving pearl diver living homeless in New York's sewers
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky out-of-work soap star with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable hypochondriac bounty hunter who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.221, 'neu': 0.579, 'pos': 0.2, 'compound': 0.1531}
+a pregnant motormouth archaeologist descended from a line of powerful witches
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a warm-hearted gypsy politiciawith a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative belly-dancing mercenary who hides her beauty behind a pair of thick-framed spectacles
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+a violent African-Americaadvertising executive from a family of eight older brothers
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+aenchanted motormouth archaeologist married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful thirtysomething advertising executive who inherited a spooky stately manor from her late maiden 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a tortured blonde femme fatale descended from a line of powerful 
+,{'neg': 0.269, 'neu': 0.522, 'pos': 0.209, 'compound': -0.2023}
+a time-travelling nymphomaniac wrestler trying to make a difference in a man's 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a foxy bisexual research scientist with the soul of a mighty 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted streetsmart safe cracker who hides her beauty behind a pair of thick-framed 
+,{'neg': 0.098, 'neu': 0.517, 'pos': 0.385, 'compound': 0.7184}
+a bloodthirsty extravagent femme fatale with only herself to 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional snooty archaeologist in the witness protection 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional tempestuous doctor living on borrowed 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural French-Canadiasnake charmer with someone else's 
+,{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+a chain-smoking nymphomaniac queen of the dead who hides her beauty behind a pair of thick-framed 
+,{'neg': 0.288, 'neu': 0.529, 'pos': 0.183, 'compound': -0.296}
+a foxy red-headed opera singer with the power to see 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic antique-collecting safe cracker trying to make a difference in a man's 
+,{'neg': 0.155, 'neu': 0.62, 'pos': 0.225, 'compound': 0.2263}
+aelegant extravagent wrestler with the power to bend men's 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a radical psychic vampire in the witness protection 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful wisecracking barmaid operating on the wrong side of the 
+,{'neg': 0.37, 'neu': 0.63, 'pos': 0.0, 'compound': -0.5719}
+a vivacious snooty hooker with someone else's 
+,{'neg': 0.0, 'neu': 0.641, 'pos': 0.359, 'compound': 0.4215}
+a tortured communist bounty hunter from a secret island of warrior 
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.5574}
+a hard-bitten antique-collecting queen of the dead with a birthmark shaped like Liberty's 
+,{'neg': 0.272, 'neu': 0.57, 'pos': 0.158, 'compound': -0.4215}
+a mentally unstable antique-collecting mechanic living homeless in New York's 
+,{'neg': 0.238, 'neu': 0.762, 'pos': 0.0, 'compound': -0.3612}
+a pregnant cigar-chomping angel looking for love in all the wrong 
+,{'neg': 0.203, 'neu': 0.523, 'pos': 0.275, 'compound': 0.2732}
+a sarcastic nymphomaniac politiciain the witness protection 
+,{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.25}
+a beautiful streetsmart socialite living homeless in New York's 
+,{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.5994}
+a virginal Boliviamagician's assistant in the witness protection 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling Buddhist vampire in the witness protection 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered psychic doctor from out of 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling thirtysomething bounty hunter with a knack for 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal belly-dancing safe cracker with aevil twin 
+,{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}
+a mistrustful winged safe cracker from the wrong side of the 
+,{'neg': 0.221, 'neu': 0.571, 'pos': 0.207, 'compound': -0.0516}
+a pregnant antique-collecting advertising executive who dreams of becoming 
+,{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}
+aenchanted antique-collecting nun trying to make a difference in a man's 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted mutant queen of the dead with someone else's 
+,{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}
+a brilliant impetuous pearl diver who inherited a spooky stately manor from her late maiden 
+,{'neg': 0.0, 'neu': 0.759, 'pos': 0.241, 'compound': 0.5859}
+a plucky renegade socialite with a knack for 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned antique-collecting wrestler in the wrong place at the wrong 
+,{'neg': 0.437, 'neu': 0.563, 'pos': 0.0, 'compound': -0.7351}
+a bloodthirsty wisecracking soap star prone to fits of savage, blood-crazed 
+,{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.5574}
+a strong-willed cat-loving journalist on the trail of a serial 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting nymphomaniac widow looking for love in all the wrong 
+,{'neg': 0.203, 'neu': 0.523, 'pos': 0.275, 'compound': 0.2732}
+a chain-smoking insomniac soap star in the witness protection 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty antique-collecting fairy princess with her own daytime radio talk 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic extravagent bodyguard with a song in her heart and a spring in her 
+,{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.25}
+a tortured paranoid socialite from 
+,{'neg': 0.737, 'neu': 0.263, 'pos': 0.0, 'compound': -0.6808}
+a green-fingered paranoid pearl diver with aMBA from 
+,{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}
+a chain-smoking bisexual socialite from a family of eight older 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitamute magician's assistant from a family of eight older 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious streetsmart mercenary with her own daytime radio talk 
+,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
+a virginal communist mercenary with aMBA from 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal communist Valkyrie operating on the wrong side of the law
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a blind paranoid advertising executive with a knack for trouble
+,{'neg': 0.597, 'neu': 0.403, 'pos': 0.0, 'compound': -0.7506}
+a manipulative African-Americadoctor with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+a high-kicking belly-dancing widow who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a strong-willed punk fairy princess married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy green-skinned stripper from beyond the grave
+,{'neg': 0.257, 'neu': 0.495, 'pos': 0.248, 'compound': -0.0258}
+a mistrustful gold-digging widow with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a time-travelling extravagent stripper fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating mutant Hell's Angel with only herself to blame
+,{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}
+a scantily clad antique-collecting schoolgirl with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking antique-collecting college professor with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a disco-crazy antique-collecting college professor with the power to bend men's minds
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful French-Canadiaschoolgirl who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.431, 'pos': 0.569, 'compound': 0.765}
+a cold-hearted thirtysomething politiciafrom aristocratic Europeastock
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting bisexual snake charmer with aMBA from Harvard
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a radical French-Canadiajournalist prone to fits of savage, blood-crazed rage
+,{'neg': 0.485, 'neu': 0.515, 'pos': 0.0, 'compound': -0.765}
+a brilliant gypsy queen of the dead living homeless in New York's sewers
+,{'neg': 0.238, 'neu': 0.552, 'pos': 0.21, 'compound': -0.128}
+aartistic communist former first lady with aevil twin sister
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic motormouth stripper who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}
+a green-fingered kleptomaniac college professor on her way to prison for a murder she didn't commit
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a cold-hearted foul-mouthed advertising executive with the power to see death
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994}
+aorphaned communist traffic cop from the wrong side of the tracks
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a violent green-skinned nun in the wrong place at the wrong time
+,{'neg': 0.558, 'neu': 0.442, 'pos': 0.0, 'compound': -0.8779}
+a tortured foul-mouthed hooker with aMBA from Harvard
+,{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.5574}
+a sharp-shooting mutant college professor with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant motormouth mermaid married to the Mob
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty Boliviamermaid with the soul of a mighty warrior
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic belly-dancing snake charmer living on borrowed time
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a tortured cat-loving schoolgirl on her way to prison for a murder she didn't commit
+,{'neg': 0.6, 'neu': 0.4, 'pos': 0.0, 'compound': -0.9258}
+a brilliant communist lawyer trying to make a difference in a man's world
+,{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}
+a wealthy communist Valkyrie with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a virginal tomboy traffic cop with a song in her heart and a spring in her step
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a scantily clad psychic former first lady with her own daytime radio talk show
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted streetsmart single mother with a birthmark shaped like Liberty's torch
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a brilliant hypochondriac soap star with a knack for trouble
+,{'neg': 0.216, 'neu': 0.48, 'pos': 0.304, 'compound': 0.2732}
+a brilliant red-headed nun operating on the wrong side of the law
+,{'neg': 0.195, 'neu': 0.566, 'pos': 0.239, 'compound': 0.1779}
+aartistic red-headed mercenary with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cynical hypochondriac advertising executive living homeless in New York's sewers
+,{'neg': 0.224, 'neu': 0.776, 'pos': 0.0, 'compound': -0.3818}
+a wealthy nymphomaniac advertising executive fleeing from a Satanic cult
+,{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+a cold-hearted antique-collecting socialite who inherited a spooky stately manor from her late maiden aunt
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious tempestuous bounty hunter who dreams of becoming Elvis
+,{'neg': 0.0, 'neu': 0.56, 'pos': 0.44, 'compound': 0.6705}
+a cynical renegade nun from the wrong side of the tracks
+,{'neg': 0.416, 'neu': 0.584, 'pos': 0.0, 'compound': -0.6908}
+a radical streetsmart museum curator looking for love in all the wrong places
+,{'neg': 0.179, 'neu': 0.578, 'pos': 0.243, 'compound': 0.2732}
+aartistic French-Canadiacab driver on her way to prison for a murder she didn't commit
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a strong-willed winged former first lady with aincredible destiny
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a green-fingered Buddhist research scientist with the power to bend men's minds
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking tomboy single mother with aMBA from Harvard
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty punk archaeologist from beyond the grave
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a high-kicking blonde detective with a flame-thrower
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy psychic angel with a knack for trouble
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a pregnant mutant soap star with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative bisexual pearl diver from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant blonde traffic cop in the witness protection scheme 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic nymphomaniac vampire with only herself to blame 
+,{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}
+a beautiful gypsy fairy princess married to the Mob 
+,{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.5994}
+a provocative cat-loving fairy princess from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a hard-bitten antique-collecting opera singer descended from a line of powerful witches 
+,{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.4215}
+a man-hating renegade femme fatale on her way to prison for a murder she didn't commit 
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a scantily clad paranoid archaeologist from a different time and place 
+,{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}
+aartistic belly-dancing former first lady who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.097, 'neu': 0.686, 'pos': 0.217, 'compound': 0.4767}
+a hard-bitten kleptomaniac advertising executive from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a virginal Buddhist archaeologist in the witness protection scheme 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitaextravagent femme fatale with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant psychic archaeologist from a different time and place 
+,{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.5859}
+a transdimensional snooty college professor who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitahip-hop opera singer who believes she is the reincarnation of aancient Egyptiaqueen 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent blonde mercenary who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.5994}
+a mistrustful bisexual widow who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned tempestuous mermaid fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting extravagent journalist in the wrong place at the wrong time 
+,{'neg': 0.408, 'neu': 0.592, 'pos': 0.0, 'compound': -0.7351}
+a cold-hearted wisecracking femme fatale with the power to see death 
+,{'neg': 0.407, 'neu': 0.593, 'pos': 0.0, 'compound': -0.6705}
+a supernatural mutant nun with the power to see death 
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+aenchanted insomniac museum curator from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a warm-hearted winged archaeologist from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy impetuous former first lady with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}
+a strong-willed gold-digging Hell's Angel with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted snooty bodyguard with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal antique-collecting vampire from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting thirtysomething angel looking for love in all the wrong places 
+,{'neg': 0.19, 'neu': 0.552, 'pos': 0.258, 'compound': 0.2732}
+a scantily clad mutant traffic cop on the trail of a serial killer 
+,{'neg': 0.301, 'neu': 0.699, 'pos': 0.0, 'compound': -0.6486}
+a psychotic Buddhist stripper from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural junkie journalist who don't take no shit from nobody 
+,{'neg': 0.0, 'neu': 0.624, 'pos': 0.376, 'compound': 0.5875}
+a time-travelling winged femme fatale from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aenchanted foul-mouthed bounty hunter who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+a strong-willed communist lawyer who inherited a spooky stately manor from her late maiden aunt 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant winged lawyer with a knack for trouble 
+,{'neg': 0.235, 'neu': 0.435, 'pos': 0.33, 'compound': 0.2732}
+aenchanted snooty mercenary fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a hard-bitten goth socialite with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a cosmopolitawisecracking pearl diver with someone else's memories 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling cat-loving opera singer who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a transdimensional impetuous journalist married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a beautiful cigar-chomping doctor with aevil twin sister 
+,{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.5994}
+a sharp-shooting red-headed traffic cop who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+a ditzy communist socialite from beyond the grave 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}
+a strong-willed wisecracking research scientist from beyond the grave 
+,{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.4939}
+a psychotic hypochondriac nun fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a provocative gold-digging fairy princess from the wrong side of the tracks 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a wealthy blonde magician's assistant with the power to see death 
+,{'neg': 0.271, 'neu': 0.556, 'pos': 0.174, 'compound': -0.34}
+a sarcastic renegade bodyguard from beyond the grave 
+,{'neg': 0.479, 'neu': 0.521, 'pos': 0.0, 'compound': -0.5574}
+a supernatural belly-dancing mercenary with aincredible destiny 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a ditzy blonde wrestler from the wrong side of the tracks 
+,{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}
+aelegant junkie widow fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a tortured Boliviaangel with a song in her heart and a spring in her step 
+,{'neg': 0.247, 'neu': 0.753, 'pos': 0.0, 'compound': -0.5574}
+a wealthy snooty schoolgirl living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+a transdimensional foul-mouthed opera singer who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a warm-hearted Buddhist cab driver from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+a hard-bitten junkie museum curator on the trail of a serial killer 
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+aartistic foul-mouthed snake charmer from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}
+a man-hating cigar-chomping single mother married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant bisexual Hell's Angel fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural paranoid snake charmer on the trail of a serial killer 
+,{'neg': 0.389, 'neu': 0.432, 'pos': 0.179, 'compound': -0.5267}
+a ditzy tomboy bounty hunter from beyond the grave 
+,{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+aorphaned renegade femme fatale with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a man-hating red-headed mercenary with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a brilliant out-of-work mechanic who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.093, 'neu': 0.492, 'pos': 0.415, 'compound': 0.7845}
+a time-travelling tomboy Hell's Angel with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky Buddhist widow from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a time-travelling communist socialite who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting Buddhist socialite who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a man-hating tempestuous single mother on her way to prison for a murder she didn't commit 
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a warm-hearted nymphomaniac safe cracker with a birthmark shaped like Liberty's torch 
+,{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.6597}
+a scantily clad foul-mouthed barmaid operating on the wrong side of the law 
+,{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}
+a scantily clad winged advertising executive from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a tortured French-Canadiahooker with only herself to blame 
+,{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.7184}
+a transdimensional communist lawyer who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mentally unstable foul-mouthed bounty hunter with aincredible destiny 
+,{'neg': 0.263, 'neu': 0.737, 'pos': 0.0, 'compound': -0.3612}
+a chain-smoking insomniac bounty hunter on her way to prison for a murder she didn't commit 
+,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
+a cold-hearted communist fairy princess operating on the wrong side of the law 
+,{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}
+a hard-bitten goth femme fatale prone to fits of savage, blood-crazed rage 
+,{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765}
+a pregnant gypsy former first lady who dreams of becoming Elvis 
+,{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}
+a man-hating goth schoolgirl with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sarcastic wisecracking snake charmer from out of town 
+,{'neg': 0.313, 'neu': 0.435, 'pos': 0.252, 'compound': 0.0772}
+a pregnant insomniac single mother from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal streetsmart femme fatale with aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aartistic winged research scientist living homeless in New York's sewers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a wealthy Buddhist museum curator prone to fits of savage, blood-crazed rage 
+,{'neg': 0.386, 'neu': 0.468, 'pos': 0.146, 'compound': -0.6249}
+a hard-bitten motormouth magician's assistant from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitaantique-collecting archaeologist from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking Buddhist cab driver who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.103, 'neu': 0.667, 'pos': 0.23, 'compound': 0.4767}
+a plucky nymphomaniac schoolgirl from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking tempestuous lawyer operating on the wrong side of the law 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a mistrustful tempestuous magician's assistant with aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a high-kicking extravagent doctor with a knack for trouble 
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a man-hating red-headed journalist with someone else's memories 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cosmopolitawisecracking cab driver who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent extravagent soap star with a knack for trouble 
+,{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.765}
+a violent insomniac mermaid from beyond the grave 
+,{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.7579}
+a beautiful renegade pearl diver with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.5994}
+a strong-willed gypsy bounty hunter from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural insomniac socialite with a flame-thrower 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty motormouth lawyer from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a plucky kleptomaniac stripper from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent extravagent detective living on borrowed time 
+,{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.5994}
+a violent red-headed angel with aincredible destiny 
+,{'neg': 0.438, 'neu': 0.562, 'pos': 0.0, 'compound': -0.5994}
+a scantily clad nymphomaniac schoolgirl from the wrong side of the tracks 
+,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+a wealthy tomboy museum curator from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+a cold-hearted goth snake charmer from out of town 
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+aartistic tomboy Valkyrie who catalk to animals 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a vivacious nymphomaniac doctor in the witness protection scheme 
+,{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4215}
+a ditzy extravagent angel from aristocratic Europeastock 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a mistrustful junkie Hell's Angel on the trail of a serial killer 
+,{'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486}
+a man-hating blonde schoolgirl from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted tempestuous schoolgirl living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a violent extravagent socialite from a family of eight older brothers 
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+a sharp-shooting kleptomaniac mercenary married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal hypochondriac nun in the wrong place at the wrong time 
+,{'neg': 0.408, 'neu': 0.592, 'pos': 0.0, 'compound': -0.7351}
+a supernatural wisecracking mechanic with aMBA from Harvard 
+,{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.1531}
+a manipulative renegade snake charmer fleeing from a Satanic cult 
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a ditzy hip-hop pearl diver with the power to see death 
+,{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994}
+a pregnant tomboy barmaid prone to fits of savage, blood-crazed rage 
+,{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765}
+aenchanted kleptomaniac soap star with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a ditzy cat-loving politiciawith aevil twin sister 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a supernatural impetuous stripper with aMBA from Harvard 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant kleptomaniac mermaid on her way to prison for a murder she didn't commit 
+,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
+a transdimensional gypsy doctor from out of town 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a pregnant mute angel from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a warm-hearted paranoid fairy princess living homeless in New York's sewers 
+,{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.25}
+a plucky hypochondriac Valkyrie from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a bloodthirsty African-Americafairy princess from a family of eight older brothers 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned motormouth femme fatale with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a virginal red-headed widow with a knack for trouble 
+,{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+a radical belly-dancing traffic cop from a secret island of warrior women 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a chain-smoking out-of-work safe cracker living on borrowed time 
+,{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+a psychotic antique-collecting barmaid living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a disco-crazy cigar-chomping wrestler married to the Mob 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aorphaned renegade femme fatale from Mars 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a psychotic impetuous detective who hides her beauty behind a pair of thick-framed spectacles 
+,{'neg': 0.11, 'neu': 0.645, 'pos': 0.245, 'compound': 0.4767}
+a chain-smoking snooty archaeologist living on borrowed time 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a tortured junkie mermaid from beyond the grave 
+,{'neg': 0.554, 'neu': 0.446, 'pos': 0.0, 'compound': -0.7351}
+aartistic French-Canadiabounty hunter with the power to see death 
+,{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}
+aenchanted nymphomaniac widow trying to make a difference in a man's world 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a cold-hearted foul-mouthed pearl diver with the soul of a mighty warrior 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+a sharp-shooting gold-digging research scientist with a song in her heart and a spring in her step 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+aelegant winged former first lady with the power to see death 
+,{'neg': 0.281, 'neu': 0.719, 'pos': 0.0, 'compound': -0.5994}
+a sarcastic hip-hop former first lady from a secret island of warrior women 
+,{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.25}
+a violent mute journalist from beyond the grave 
+,{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.7579}
+a cynical blonde politiciaon the trail of a serial killer 
+,{'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.7845}
+a strong-willed out-of-work pearl diver from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
