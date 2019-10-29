@@ -8,6 +8,9 @@ import os
 os.chdir('/Users/jessica.troianello/PycharmProjects/Assign3')
 import fileinput
 import shutil
+import csv
+import pandas as pd
+import jinja2
 
 #Read all male files and merge into 1 file
 
@@ -41,6 +44,7 @@ file2 = open('femaleHeros_noperiod.txt', 'w')
 file1_cont = file1.readlines()
 for line in file1_cont:
     line = line.strip("0123456789.-:,'!")
+    line = line.replace("savage, blood-crazed", "savage blood crazed rage")
     line = line.replace('.', '')
     line = line.replace("\\'s", "'s")
     line = line.replace("\\'t", "'t")
@@ -59,6 +63,7 @@ file22 = open('maleHeros_noperiod.txt', 'w')
 file11_cont = file11.readlines()
 for line in file11_cont:
     line = line.strip("0123456789.-:,'!")
+    line = line.replace("savage, blood-crazed", "savage blood crazed rage")
     line = line.replace('.', '')
     line = line.replace("\\'s", "'s")
     line = line.replace("\\'t", "'t")
@@ -68,6 +73,7 @@ for line in file11_cont:
     line = line.replace("They fight crime!", '')
     line = line.replace("Circus", '')
     line = line.replace("</P>", '')
+
     line.split(",")
     file22.write(line)
 
@@ -108,7 +114,11 @@ file3 = open('femaleHeros_withSent.txt', 'w')
 
 
 output_array = file_read('femaleHeros_noperiod.txt')
-pprint(output_array)
+# pprint('this is output array')
+# pprint(output_array)
+# pprint('this end of is output array')
+
+
 with open ('femaleHeros_withSent.txt', 'w') as filehandle:
     for listitem in output_array:
         filehandle.write('%s\n' % listitem)
@@ -123,6 +133,75 @@ for line in file_cont:
     line = line.replace('}', ',')
 #   line = line('\n', '')
     fileOut.write(line)
+
+workfile  = open('femaleHeros_toSort.txt', 'r')
+workfile_cont=workfile.readlines()
+
+strWork = ''.join(output_array)
+# clean up text file
+remap = {
+#    ord('\'') : '',
+#    ord(' ') : '',
+    ord('{') : '',
+    ord('}') : ','
+}
+
+cleaned_text = strWork.translate(remap)
+
+# remove tags of values
+f_test = re.sub( ",(neg:|neu:|pos:|compound:)", ',', cleaned_text )
+
+# break text into list
+string_to_list = f_test.split(',')
+
+# create list of lists with
+# list comprehension.
+# Each inner list contains
+# 5 elements, such as
+# 'Subject', 'Neg','Neu','Pos','Compound'
+
+list_to_df = [ string_to_list[i : i + 5] for i in range(0, len(string_to_list), 5) ]
+pprint(list_to_df)
+
+# generate pandas dataframe
+df = pd.DataFrame(list_to_df, columns = ['Subject', 'Neg','Neu','Pos','Compound'])
+#print("dataframe")
+#pprint(df)
+export_csv=df.to_csv('text.csv',index = None, header=True)
+# sort dataframe based on Compound
+df_sorted = df.sort_values(['Compound'],
+                 ascending = False
+                 )
+#print("sorted")
+#pprint(df_sorted)
+pprint ("The top female superheros are :")
+pprint(df_sorted.style)
+pprint(df_sorted.ix[10:])
+# finaldata = []
+#
+# with open('femaleHeros_toSort.txt', 'r') as in_file:
+#     c_reader = csv.reader(in_file, delimiter=',')
+#     for row in c_reader:
+#         this_row = []
+#
+#         # from each row, get the name first, stripping the leading and trailing ' single quotes.
+#         this_row.append(row[0])
+#
+#         # get the remaining values
+#         for i in range(1, len(row)):
+#         # all values appear after a ': ' pattern, in the same order. split on ': '
+#         # and get the second half of the split - it's the value we're looking for
+#             this_row.append(row[i].split(": ", 1)[1])
+#
+#         # add this to the array
+#         finaldata.append(this_row)
+#
+#         # make a dataframe out of the csv file
+# df = pd.DataFrame(finaldata, columns=['Hero', 'Neg', 'Neu', 'Pos', 'Compound'])
+# print(df)
+
+
+
 
 
 #file3.write(output_array)

@@ -96,8 +96,8 @@ a warm-hearted African-Americasocialite with aincredible destiny
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a ditzy mute lawyer from Mars 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a hard-bitten junkie opera singer living homeless in New York's sewers  a wealthy gold-digging schoolgirl prone to fits of savage, blood-crazed rage
-,'neg': 0.253, 'neu': 0.651, 'pos': 0.096, 'compound': -0.6249,
+a hard-bitten junkie opera singer living homeless in New York's sewers  a wealthy gold-digging schoolgirl prone to fits of savage blood crazed rage rage
+,'neg': 0.375, 'neu': 0.545, 'pos': 0.08, 'compound': -0.8481,
 a transdimensional kleptomaniac detective from beyond the grave
 ,'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818,
 a man-hating winged nun trying to make a difference in a man's world
@@ -160,8 +160,8 @@ a warm-hearted French-Canadiajournalist looking for love in all the wrong places
 ,'neg': 0.203, 'neu': 0.523, 'pos': 0.275, 'compound': 0.2732,
 a sharp-shooting African-Americamechanic with the power to see death
 ,'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994,
-a beautiful paranoid college professor prone to fits of savage, blood-crazed rage
-,'neg': 0.441, 'neu': 0.359, 'pos': 0.2, 'compound': -0.5719,
+a beautiful paranoid college professor prone to fits of savage blood crazed rage rage
+,'neg': 0.557, 'neu': 0.285, 'pos': 0.159, 'compound': -0.8316,
 a disco-crazy motormouth magician's assistant from beyond the grave
 ,'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818,
 a foxy tomboy vampire on her way to prison for a murder she didn't commit
@@ -190,8 +190,8 @@ aartistic green-skinned archaeologist married to the Mob
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a high-kicking cigar-chomping opera singer on the trail of a serial killer
 ,'neg': 0.323, 'neu': 0.677, 'pos': 0.0, 'compound': -0.6486,
-a tortured kleptomaniac wrestler prone to fits of savage, blood-crazed rage
-,'neg': 0.593, 'neu': 0.407, 'pos': 0.0, 'compound': -0.8807,
+a tortured kleptomaniac wrestler prone to fits of savage blood crazed rage rage
+,'neg': 0.686, 'neu': 0.314, 'pos': 0.0, 'compound': -0.936,
 a transdimensional mute fairy princess who dreams of becoming Elvis
 ,'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019,
 aartistic winged mermaid who hides her beauty behind a pair of thick-framed spectacles
@@ -250,8 +250,8 @@ a green-fingered winged schoolgirl who believes she is the reincarnation of aanc
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a wealthy Boliviatraffic cop descended from a line of powerful witches
 ,'neg': 0.0, 'neu': 0.569, 'pos': 0.431, 'compound': 0.6486,
-a cynical winged advertising executive prone to fits of savage, blood-crazed rage
-,'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.8481,
+a cynical winged advertising executive prone to fits of savage blood crazed rage rage
+,'neg': 0.641, 'neu': 0.359, 'pos': 0.0, 'compound': -0.9231,
 a hard-bitten mute college professor on her way to prison for a murder she didn't commit
 ,'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717,
 a sarcastic bisexual cab driver with aMBA from Harvard
@@ -362,8 +362,8 @@ a virginal renegade widow with the soul of a mighty warrior
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a mistrustful wisecracking mercenary with the power to see death
 ,'neg': 0.44, 'neu': 0.56, 'pos': 0.0, 'compound': -0.6705,
-a pregnant paranoid mechanic prone to fits of savage, blood-crazed rage
-,'neg': 0.551, 'neu': 0.449, 'pos': 0.0, 'compound': -0.8225,
+a pregnant paranoid mechanic prone to fits of savage blood crazed rage rage
+,'neg': 0.662, 'neu': 0.338, 'pos': 0.0, 'compound': -0.9136,
 a brilliant insomniac single mother with a song in her heart and a spring in her step
 ,'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.5859,
 a hard-bitten hip-hop fairy princess from beyond the grave 
@@ -444,8 +444,8 @@ a beautiful green-skinned museum curator with a birthmark shaped like Liberty's 
 ,'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.7506,
 a sarcastic tempestuous fairy princess with her own daytime radio talk show 
 ,'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.25,
-a violent French-Canadiacollege professor prone to fits of savage, blood-crazed rage 
-,'neg': 0.6, 'neu': 0.4, 'pos': 0.0, 'compound': -0.8885,
+a violent French-Canadiacollege professor prone to fits of savage blood crazed rage rage 
+,'neg': 0.69, 'neu': 0.31, 'pos': 0.0, 'compound': -0.9393,
 a radical hypochondriac doctor with the power to bend men's minds 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a high-kicking winged bodyguard looking for love in all the wrong places 
@@ -482,8 +482,8 @@ a plucky antique-collecting journalist from the wrong side of the tracks
 ,'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767,
 a hard-bitten French-Canadiamermaid from Mars 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a manipulative African-Americasnake charmer prone to fits of savage, blood-crazed rage 
-,'neg': 0.4, 'neu': 0.424, 'pos': 0.176, 'compound': -0.5719,
+a manipulative African-Americasnake charmer prone to fits of savage blood crazed rage rage 
+,'neg': 0.542, 'neu': 0.324, 'pos': 0.134, 'compound': -0.8316,
 a blind Boliviabounty hunter from the wrong side of the tracks 
 ,'neg': 0.42, 'neu': 0.58, 'pos': 0.0, 'compound': -0.7003,
 a time-travelling nymphomaniac soap star who believes she is the reincarnation of aancient Egyptiaqueen 
@@ -580,8 +580,8 @@ a disco-crazy mutant archaeologist with a birthmark shaped like Liberty's torch
 ,'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612,
 a foxy junkie mechanic with a flame-thrower
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a virginal extravagent pearl diver prone to fits of savage, blood-crazed rage
-,'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765,
+a virginal extravagent pearl diver prone to fits of savage blood crazed rage rage
+,'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.8934,
 aelegant mutant traffic cop with a flame-thrower
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a bloodthirsty red-headed politiciafleeing from a Satanic cult
@@ -618,8 +618,8 @@ a time-travelling streetsmart advertising executive with a birthmark shaped like
 ,'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612,
 a radical mute stripper on her way to prison for a murder she didn't commit
 ,'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717,
-aartistic nymphomaniac snake charmer prone to fits of savage, blood-crazed rage
-,'neg': 0.377, 'neu': 0.457, 'pos': 0.166, 'compound': -0.5719,
+aartistic nymphomaniac snake charmer prone to fits of savage blood crazed rage rage
+,'neg': 0.518, 'neu': 0.354, 'pos': 0.128, 'compound': -0.8316,
 a warm-hearted mutant doctor with aevil twin sister
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a bloodthirsty insomniac soap star with a song in her heart and a spring in her step
@@ -652,8 +652,8 @@ aenchanted belly-dancing Hell's Angel with aincredible destiny
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a psychotic mutant Hell's Angel with the soul of a mighty warrior
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a cynical French-Canadiasafe cracker prone to fits of savage, blood-crazed rage
-,'neg': 0.568, 'neu': 0.432, 'pos': 0.0, 'compound': -0.8481,
+a cynical French-Canadiasafe cracker prone to fits of savage blood crazed rage rage
+,'neg': 0.671, 'neu': 0.329, 'pos': 0.0, 'compound': -0.9231,
 a beautiful renegade museum curator who dreams of becoming Elvis
 ,'neg': 0.0, 'neu': 0.515, 'pos': 0.485, 'compound': 0.765,
 a cosmopolitagoth nun with the power to see death
@@ -666,8 +666,8 @@ a plucky junkie magician's assistant on her way to prison for a murder she didn'
 ,'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717,
 a ditzy Buddhist mechanic on her way to prison for a murder she didn't commit
 ,'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717,
-a virginal cigar-chomping mechanic prone to fits of savage, blood-crazed rage
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a virginal cigar-chomping mechanic prone to fits of savage blood crazed rage rage
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 a man-hating nymphomaniac femme fatale from a different time and place
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a radical African-Americapoliticiaon her way to prison for a murder she didn't commit
@@ -800,8 +800,8 @@ a ditzy impetuous hooker from out of town
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a cosmopolitamotormouth bodyguard with the power to see death 
 ,'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994,
-a sarcastic antique-collecting snake charmer prone to fits of savage, blood-crazed rage 
-,'neg': 0.465, 'neu': 0.378, 'pos': 0.157, 'compound': -0.6908,
+a sarcastic antique-collecting snake charmer prone to fits of savage blood crazed rage rage 
+,'neg': 0.581, 'neu': 0.297, 'pos': 0.123, 'compound': -0.8689,
 a foxy blonde politicialiving homeless in New York's sewers 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 aelegant foul-mouthed lawyer from a different time and place 
@@ -866,14 +866,14 @@ a manipulative hip-hop snake charmer with aevil twin sister
 ,'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404,
 a sarcastic psychic queen of the dead with aMBA from Harvard 
 ,'neg': 0.441, 'neu': 0.559, 'pos': 0.0, 'compound': -0.743,
-a strong-willed psychic research scientist prone to fits of savage, blood-crazed rage 
-,'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765,
+a strong-willed psychic research scientist prone to fits of savage blood crazed rage rage 
+,'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.8934,
 a green-fingered thirtysomething vampire with someone else's memories 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a radical tomboy advertising executive from the wrong side of the tracks 
 ,'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767,
-a radical tomboy journalist prone to fits of savage, blood-crazed rage 
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a radical tomboy journalist prone to fits of savage blood crazed rage rage 
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 a high-kicking motormouth mercenary from a different time and place 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a mistrustful psychic bounty hunter who dreams of becoming Elvis 
@@ -892,16 +892,16 @@ a high-kicking motormouth advertising executive married to the Mob
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a manipulative gypsy mercenary living on borrowed time 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a wealthy hip-hop mechanic prone to fits of savage, blood-crazed rage 
-,'neg': 0.41, 'neu': 0.435, 'pos': 0.155, 'compound': -0.6249,
+a wealthy hip-hop mechanic prone to fits of savage blood crazed rage rage 
+,'neg': 0.552, 'neu': 0.33, 'pos': 0.118, 'compound': -0.8481,
 a green-fingered Boliviaadvertising executive living homeless in New York's sewers 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a hard-bitten tomboy museum curator with aMBA from Harvard 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a plucky nymphomaniac traffic cop operating on the wrong side of the law 
 ,'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767,
-a cosmopolitajunkie fairy princess prone to fits of savage, blood-crazed rage 
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a cosmopolitajunkie fairy princess prone to fits of savage blood crazed rage rage 
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 a high-kicking punk queen of the dead with the soul of a mighty warrior 
 ,'neg': 0.281, 'neu': 0.719, 'pos': 0.0, 'compound': -0.6486,
 a transdimensional renegade safe cracker looking for love in all the wrong places 
@@ -940,8 +940,8 @@ a provocative gold-digging hooker with a song in her heart and a spring in her s
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a blind tomboy mermaid on the trail of a serial killer 
 ,'neg': 0.5, 'neu': 0.5, 'pos': 0.0, 'compound': -0.7906,
-a provocative Boliviacollege professor prone to fits of savage, blood-crazed rage 
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a provocative Boliviacollege professor prone to fits of savage blood crazed rage rage 
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 a wealthy red-headed hooker operating on the wrong side of the law 
 ,'neg': 0.212, 'neu': 0.616, 'pos': 0.171, 'compound': -0.1531,
 a vivacious kleptomaniac soap star who don't take no shit from nobody 
@@ -952,10 +952,10 @@ a foxy kleptomaniac femme fatale from aristocratic Europeastock
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a mentally unstable hypochondriac angel with only herself to blame 
 ,'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.5994,
-a vivacious snooty safe cracker prone to fits of savage, blood-crazed rage 
-,'neg': 0.342, 'neu': 0.363, 'pos': 0.295, 'compound': -0.2263,
-a ditzy tempestuous lawyer prone to fits of savage, blood-crazed rage 
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a vivacious snooty safe cracker prone to fits of savage blood crazed rage rage 
+,'neg': 0.48, 'neu': 0.287, 'pos': 0.234, 'compound': -0.7184,
+a ditzy tempestuous lawyer prone to fits of savage blood crazed rage rage 
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 aelegant red-headed doctor married to the Mob 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a high-kicking renegade vampire descended from a line of powerful witches 
@@ -1026,8 +1026,8 @@ a cynical communist Valkyrie fleeing from a Satanic cult
 ,'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818,
 a green-fingered streetsmart lawyer with her own daytime radio talk show
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a manipulative communist pearl diver prone to fits of savage, blood-crazed rage
-,'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765,
+a manipulative communist pearl diver prone to fits of savage blood crazed rage rage
+,'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.8934,
 a chain-smoking paranoid mermaid with the soul of a mighty warrior
 ,'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25,
 a cynical communist magician's assistant from beyond the grave
@@ -1096,8 +1096,8 @@ aorphaned thirtysomething barmaid in the witness protection scheme a cosmopolita
 ,'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.4215,
 a foxy kleptomaniac politiciaon her way to prison for a murder she didn't commit 
 ,'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.8717,
-a pregnant hip-hop socialite prone to fits of savage, blood-crazed rage 
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a pregnant hip-hop socialite prone to fits of savage blood crazed rage rage 
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 a cosmopolitared-headed lawyer who catalk to animals 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a cold-hearted tomboy college professor with the power to bend men's minds 
@@ -1134,8 +1134,8 @@ a chain-smoking hypochondriac Valkyrie living on borrowed time
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a cynical punk traffic cop living on borrowed time 
 ,'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818,
-a plucky motormouth magician's assistant prone to fits of savage, blood-crazed rage 
-,'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765,
+a plucky motormouth magician's assistant prone to fits of savage blood crazed rage rage 
+,'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.8934,
 a blind motormouth femme fatale from a family of eight older brothers 
 ,'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019,
 a supernatural insomniac safe cracker who believes she is the reincarnation of aancient Egyptiaqueen 
@@ -1460,8 +1460,8 @@ a plucky renegade socialite with a knack for
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 aorphaned antique-collecting wrestler in the wrong place at the wrong 
 ,'neg': 0.437, 'neu': 0.563, 'pos': 0.0, 'compound': -0.7351,
-a bloodthirsty wisecracking soap star prone to fits of savage, blood-crazed 
-,'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.5574,
+a bloodthirsty wisecracking soap star prone to fits of savage blood crazed rage 
+,'neg': 0.548, 'neu': 0.452, 'pos': 0.0, 'compound': -0.8271,
 a strong-willed cat-loving journalist on the trail of a serial 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a sharp-shooting nymphomaniac widow looking for love in all the wrong 
@@ -1514,8 +1514,8 @@ a cold-hearted thirtysomething politiciafrom aristocratic Europeastock
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a sharp-shooting bisexual snake charmer with aMBA from Harvard
 ,'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404,
-a radical French-Canadiajournalist prone to fits of savage, blood-crazed rage
-,'neg': 0.485, 'neu': 0.515, 'pos': 0.0, 'compound': -0.765,
+a radical French-Canadiajournalist prone to fits of savage blood crazed rage rage
+,'neg': 0.626, 'neu': 0.374, 'pos': 0.0, 'compound': -0.8934,
 a brilliant gypsy queen of the dead living homeless in New York's sewers
 ,'neg': 0.238, 'neu': 0.552, 'pos': 0.21, 'compound': -0.128,
 aartistic communist former first lady with aevil twin sister
@@ -1740,8 +1740,8 @@ a chain-smoking insomniac bounty hunter on her way to prison for a murder she di
 ,'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717,
 a cold-hearted communist fairy princess operating on the wrong side of the law 
 ,'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767,
-a hard-bitten goth femme fatale prone to fits of savage, blood-crazed rage 
-,'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.765,
+a hard-bitten goth femme fatale prone to fits of savage blood crazed rage rage 
+,'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.8934,
 a pregnant gypsy former first lady who dreams of becoming Elvis 
 ,'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019,
 a man-hating goth schoolgirl with aMBA from Harvard 
@@ -1754,8 +1754,8 @@ a virginal streetsmart femme fatale with aevil twin sister
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 aartistic winged research scientist living homeless in New York's sewers 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
-a wealthy Buddhist museum curator prone to fits of savage, blood-crazed rage 
-,'neg': 0.386, 'neu': 0.468, 'pos': 0.146, 'compound': -0.6249,
+a wealthy Buddhist museum curator prone to fits of savage blood crazed rage rage 
+,'neg': 0.527, 'neu': 0.36, 'pos': 0.113, 'compound': -0.8481,
 a hard-bitten motormouth magician's assistant from a different time and place 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a cosmopolitaantique-collecting archaeologist from out of town 
@@ -1822,8 +1822,8 @@ a manipulative renegade snake charmer fleeing from a Satanic cult
 ,'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404,
 a ditzy hip-hop pearl diver with the power to see death 
 ,'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.5994,
-a pregnant tomboy barmaid prone to fits of savage, blood-crazed rage 
-,'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.765,
+a pregnant tomboy barmaid prone to fits of savage blood crazed rage rage 
+,'neg': 0.594, 'neu': 0.406, 'pos': 0.0, 'compound': -0.8934,
 aenchanted kleptomaniac soap star with the soul of a mighty warrior 
 ,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
 a ditzy cat-loving politiciawith aevil twin sister 
@@ -1878,5 +1878,3 @@ a violent mute journalist from beyond the grave
 ,'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.7579,
 a cynical blonde politiciaon the trail of a serial killer 
 ,'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.7845,
-a strong-willed out-of-work pearl diver from a different time and place 
-,'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0,
