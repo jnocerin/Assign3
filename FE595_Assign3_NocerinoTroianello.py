@@ -3,7 +3,7 @@ import glob
 import os
 import re
 
-os.chdir('/Users/jessica.troianello/PycharmProjects/Assign3')
+#os.chdir('/Users/jessica.troianello/PycharmProjects/Assign3')
 import shutil
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
