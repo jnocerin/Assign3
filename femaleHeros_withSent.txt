@@ -256,8 +256,6 @@ a hard-bitten mute college professor on her way to prison for a murder she didn'
 ,{'neg': 0.473, 'neu': 0.527, 'pos': 0.0, 'compound': -0.8717}
 a sarcastic bisexual cab driver with aMBA from Harvard
 ,{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}
-
-,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
 aenchanted wisecracking fairy princess trying to make a difference in a man's world
 ,{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.1531}
 a bloodthirsty mutant snake charmer with her own daytime radio talk show
@@ -294,8 +292,6 @@ a violent goth pearl diver with aincredible destiny
 ,{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.5994}
 a wealthy renegade mechanic living on borrowed time
 ,{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.3612}
-
-,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
 a green-fingered motormouth traffic cop with aMBA from Harvard
 ,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
 a disco-crazy snooty Valkyrie with the soul of a mighty warrior
@@ -502,8 +498,6 @@ a hard-bitten paranoid opera singer who don't take no shit from nobody
 ,{'neg': 0.135, 'neu': 0.54, 'pos': 0.325, 'compound': 0.4238}
 aenchanted punk mechanic on her way to prison for a murder she didn't commit
 ,{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.8717}
-
-,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
 a scantily clad winged detective with aincredible destiny
 ,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
 a warm-hearted antique-collecting Valkyrie with someone else's memories
@@ -552,14 +546,10 @@ a high-kicking impetuous archaeologist with only herself to blame
 ,{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}
 a time-travelling extravagent advertising executive who believes she is the reincarnation of aancient Egyptiaqueen
 ,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
-
-,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
 a strong-willed insomniac soap star with aMBA from Harvard
 ,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
 aenchanted nymphomaniac journalist descended from a line of powerful witches
 ,{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}
-
-,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
 a time-travelling French-Canadiabounty hunter operating on the wrong side of the law
 ,{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
 a radical gypsy nun on her way to prison for a murder she didn't commit
@@ -588,8 +578,6 @@ a bloodthirsty red-headed politiciafleeing from a Satanic cult
 ,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
 a bloodthirsty renegade archaeologist who catalk to animals
 ,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
-
-,{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
 a tortured mute queen of the dead from Mars
 ,{'neg': 0.568, 'neu': 0.432, 'pos': 0.0, 'compound': -0.836}
 a pregnant streetsmart vampire from beyond the grave 
@@ -1878,3 +1866,5 @@ a violent mute journalist from beyond the grave
 ,{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.7579}
 a cynical blonde politiciaon the trail of a serial killer 
 ,{'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.7845}
+a strong-willed out-of-work pearl diver from a different time and place 
+,{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
